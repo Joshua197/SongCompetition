@@ -1,0 +1,21 @@
+D:\Oktatas\Programming_2_2017\Practice_03\SongCompetition1\SongCompetition1\bin\Debug\SongCompetition1.exe.config
+D:\Oktatas\Programming_2_2017\Practice_03\SongCompetition1\SongCompetition1\bin\Debug\SongCompetition1.exe
+D:\Oktatas\Programming_2_2017\Practice_03\SongCompetition1\SongCompetition1\bin\Debug\SongCompetition1.pdb
+D:\Oktatas\Programming_2_2017\Practice_03\SongCompetition1\SongCompetition1\obj\Debug\SongCompetition1.csprojResolveAssemblyReference.cache
+D:\Oktatas\Programming_2_2017\Practice_03\SongCompetition1\SongCompetition1\obj\Debug\SongCompetition1.exe
+D:\Oktatas\Programming_2_2017\Practice_03\SongCompetition1\SongCompetition1\obj\Debug\SongCompetition1.pdb
+f:\Programming_2_2017\Practice_03\SongCompetition1\SongCompetition1\bin\Debug\SongCompetition1.exe.config
+f:\Programming_2_2017\Practice_03\SongCompetition1\SongCompetition1\obj\Debug\SongCompetition1.exe
+f:\Programming_2_2017\Practice_03\SongCompetition1\SongCompetition1\obj\Debug\SongCompetition1.pdb
+C:\Users\ADMN\Desktop\Semester 2 Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\bin\Debug\SongCompetition1.exe.config
+C:\Users\ADMN\Desktop\Semester 2 Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\obj\Debug\SongCompetition1.exe
+C:\Users\ADMN\Desktop\Semester 2 Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\obj\Debug\SongCompetition1.pdb
+C:\Users\ADMN\Desktop\Semester 2 Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\bin\Debug\SongCompetition1.exe
+C:\Users\ADMN\Desktop\Semester 2 Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\bin\Debug\SongCompetition1.pdb
+C:\Users\ADMN\Desktop\Semester 2 Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\obj\Debug\SongCompetition1.csprojResolveAssemblyReference.cache
+C:\Users\ADMN\Desktop\AllSemsClassWork\sem2Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\bin\Debug\SongCompetition1.exe.config
+C:\Users\ADMN\Desktop\AllSemsClassWork\sem2Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\obj\Debug\SongCompetition1.exe
+C:\Users\ADMN\Desktop\AllSemsClassWork\sem2Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\obj\Debug\SongCompetition1.pdb
+C:\Users\ADMN\Desktop\AllSemsClassWork\sem2Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\bin\Debug\SongCompetition1.exe
+C:\Users\ADMN\Desktop\AllSemsClassWork\sem2Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\bin\Debug\SongCompetition1.pdb
+C:\Users\ADMN\Desktop\AllSemsClassWork\sem2Classwork\Programming 2\SongCompetition1\SongCompetition1\SongCompetition1\obj\Debug\SongCompetition1.csprojResolveAssemblyReference.cache
